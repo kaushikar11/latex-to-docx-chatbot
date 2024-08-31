@@ -1,0 +1,20 @@
+{
+  "name": "legalappa-pandoc",
+  "version": "1.0.0",
+  "main": "textodoc.js",
+  "scripts": {
+    "start": "node textodoc.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kaushik",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.1",
+    "multer": "^1.4.3",
+    "child_process": "^1.0.2",
+    "path": "^0.12.7",
+    "fs": "^0.0.1-security",
+    "cors": "^2.8.5"
+  }
+}
